@@ -1,0 +1,23 @@
+.heding{
+    background-color: #E7796D;
+    text-transform: uppercase;
+}
+.pricing-h2{
+    color: white;
+    display: block;
+}
+#navbar{
+    text-align: center;
+}
+
+
+.hedding{
+    list-style-type: none;
+    border: 2px solid wheat;
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 6px;
+    width: 300px;
+    font-size: 24px;
+
+}

@@ -1,0 +1,530 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+*{
+    box-sizing: border-box;
+}
+
+img{
+    vertical-align: middle;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.contenir{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 44px;
+    padding-bottom: 61px;
+
+}
+
+
+
+.img-1{
+    margin-right: 23px;
+}
+.img-3{
+    margin-right: 21px;
+}
+.img-4{
+    border-radius: 50%;
+}
+.img-5{
+    margin-right: 23px;
+}
+.img-6{
+    margin-right: 7px;
+}
+.header-link-1{
+    background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+border-radius: 5px;
+padding: 11px 12px 8px;
+text-decoration: none;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #FFFFFF;
+}
+
+/* HEADER SITE FINISHED */
+.navbar{
+    padding-bottom: 40px;
+   
+
+}
+.hero-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+   padding: 0;
+   margin: 0 20px;
+}
+.hero-item{
+   
+}
+.active{
+    padding-left: 0;
+}
+.a{
+    display: inline-block;
+    text-decoration: none;
+    font-family:'Rubik';
+    font-weight: 500;
+font-size: 19px;
+line-height: 23px;
+
+color: #515151;
+   }
+   .hero-img{
+    padding-bottom: 45px;
+   }
+
+/* HER-1-SITE FINESHID */
+.hero-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 41px 0;
+background: #F6F6F9;
+border-radius: 5px;
+}
+p{
+    display: inline-block;
+}
+
+.w{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.logo-2{
+    padding-right: 25px;
+}
+.logo-4{
+    padding-left: 30px;
+    padding-right: 18px;
+}
+.logo-6{
+    padding: 0 30px;
+}
+.logo-8{
+padding-left: 27px;
+padding-right: 19px;
+}
+.text{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.text-2{
+  
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #DB0000;
+}
+.text-3{
+    
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #05B135;
+}
+.text-4{
+    display: block;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+
+}
+.titli{
+    font-size: 22px;
+}
+
+/* HERO-1-FINISHED */
+/* HERO-2-FINISHED */
+.hero-3{
+    padding-top: 18px;
+    padding-bottom: 34px;
+
+}
+.top{
+    width: 380px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.top-1{
+    margin-right: 20px;
+}
+.text--1{
+    display: block;
+    padding-top: 10px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+color: #202020;
+padding-top: 0;
+margin-top: 0;
+margin-top: 10px;
+
+}
+.time{
+    display: block;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+padding-top: 10px;
+
+color: #6B6D97;
+}
+.content-1{
+   display: flex;
+   justify-content: space-between;
+   
+}
+
+.top-2{
+    width: 380px;
+    display: flex;
+    justify-content: space-between;
+ padding-top: 0;
+ margin-top: 0;
+ margin-top: 10px;
+
+}
+
+.top-5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(239, 186, 84, 0.18);
+border-radius: 5px;
+padding: 32px 0;
+
+}
+.top--5{
+    padding-left: 34px;
+
+}
+
+.top-link{
+    padding-right: 28px;
+}
+.top-img{
+    padding-right: 18px;
+}
+.top-text{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.link--1{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+    background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+border-radius: 5px;
+text-decoration: none;
+padding: 8px 8px 8px 15px;
+}
+/* HERO-2-FINISHED */
+/* HERO-3 SITE */
+.bottom-site{
+   display: flex;
+   align-items: center;
+   margin-top: 18px; 
+   
+}
+.p-text{
+    width: 434px;
+padding-left: 19px;
+}
+.bottom-text-1{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+margin-bottom: 8px;
+
+color: #202020;
+}
+
+.bottom-text-2{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+margin: 0;
+padding: 0;
+color: #434343;
+}
+.bottom-text-3{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+margin-top: 0;
+padding-top: 0;
+display: flex;
+align-items: center;
+color: #7688A4;
+margin-top: 11px;
+}
+.bottom-titli{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #202020;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+.content{
+    padding-top: 38px;
+}
+.content---{
+    padding-top: 46px;
+}
+
+.content--{
+padding: 16px 16px;
+background: #F6F6F9;
+border-radius: 5px;
+}
+
+.p--{
+    width: 512px;
+}
+
+.class-img{
+    margin-right: 4px;
+}
+
+.p--text{
+    width: 347px;
+  border-bottom: solid 4px #e4e4e4;
+   
+}
+.bottom-text-4{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+padding-bottom: 11px;
+margin: 0;
+color: #202020;
+padding-top: 18px;
+}
+
+.bottom-text-5{
+    display: block;
+}
+aside{
+    width: 347px;
+}
+
+.bottom-text-5{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #7688A4;
+margin-top: 0;
+padding-top: 0;
+}
+.logo-img{
+    padding-top: 20px;
+}
+.p--{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.btn{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    border: none;
+background: #295093;
+border-radius: 5px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+padding: 10px 32px;
+color: #FFFFFF;
+
+}
+
+.left-img{
+    margin-bottom: 40px;
+}
+
+/* HERO-3 SITE */
+/* HERO-4 SITE */
+.rek-n1{
+    padding: 37px 20px 0 0;
+    margin-top: 38px;
+background: #F6F6F9;
+border-radius: 5px;
+margin-bottom: 38px;
+}
+.reklama{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.play{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 63px;
+}
+.rek-p{
+        width: 526px;
+}
+.rek-titli{
+    margin-bottom: 0;
+    padding-bottom: 0;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #295093;
+padding-bottom: 10px;
+}
+.rek-text{
+    margin-top: 0;
+    padding-top: 0;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #333333;
+}
+.imges-2{
+    padding-right: 20px;
+}
+/* HERO-4 SITE */
+/* HERO-5 SITE */
+footer{
+    
+background: #295093;
+padding-bottom: 13px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 18px;
+    padding-bottom: 20px;
+    border-bottom: solid 5px #133C82;
+
+}
+.nav-img{
+    width: 194px;
+    background: #133C82;
+    border-radius: 5px;
+    transform: (1, 0, 0, -1, 0, 0);
+    padding: 11px 9px 6px 12px;
+
+}
+.foter-text{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+padding-right: 17px;
+}
+.foter-link{
+    background: #FFFFFF;
+border-radius: 5px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #295093;
+}
+.futer-list-1{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 18px;
+}
+.futer{
+    width: 365px;
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+
+}
+.item1{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+width: 163px;
+margin-right: 115px;
+margin-left: 111px;
+}
+.item2{
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+width: 225px;
+color: #FFFFFF;
+}
+/* HERO-5 SITE */
+
+
